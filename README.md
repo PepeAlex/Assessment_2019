@@ -48,33 +48,34 @@ Project Jupyter is a non-profit, open-source project, born out of the IPython Pr
 I opened Jupyter Notebook and I imported the data set with "pandas" library. After that I wrote some codes to show how to manipulate the data and describe a little about it.
 My codes printed informations such as:
 - names and numbers of variables, numbers of samples, datatype used in each column and memory usage.
-![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/data_info.ipynb)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/info.png)
 
 - Total numbers of columns and rows in this dataset.
 - column names of the data.
-![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/row%26columns.ipynb)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/row%26columns.png)
 
 - There are statistical summary as count variables, mean, standard deviation, 25%th, 50%th and 75%th on each column.
 - List randow 5 rows of the data.
-![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/summary.ipynb)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/summary.png)
 
 # Statistic
 
 In this part of the project I manipulated the data also using "pandas" library. I found a "mean", a "max", a "min" and a "median" for each variable per "gender".
-![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/value_variable.ipynb)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/value_variable.png)
 
 # Graphic
 
 Finally, I used libraries as matplotlib.pyplot, seaborn and pandas to easily describe TIPs data set by graphics.
 
 - Relation betwween TIP and variable
-![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/boxplot.ipynb)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/boxplot.png)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/boxplot1.png)
 
 - I also used the HISTOGRAM graphic type to illustrate my data
-![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/histogram.ipynb)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/histogram.png)
 
 - I manipulated my data and used SCATTER PLOT to show it per "total_bill" versus "tip".
-![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/scatterplot.ipynb)
+![Alt text](https://github.com/PepeAlex/Assessment_2019/blob/master/scatterplot.png)
 
 # Conclusion
 
